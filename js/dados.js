@@ -403,29 +403,29 @@ var MENU = {
         {
             "id": "choose-your-own-chicago-deep-dish-pizza-4-pack",
             "img": "./img/cardapio/pizzas/benegrip-dia.jpg",
-            "name": "BENEGRIP MULTI DIA C/12 COMP - (068618)",
-            "dsc": "BENEGRIP MULTI DIA C/12 COMP - (068618)",
+            "name": "BENEGRIP MULTI DIA C/12 COMP ",
+            "dsc": "(068618) BENEGRIP MULTI DIA C/12 COMP",
             "price": 23.13
         },
         {
             "id": "4-lou-malnatis-deep-dish-pizzas",
             "img": "./img/cardapio/pizzas/benegrip-noite.jpg",
-            "name": "BENEGRIP MULTI NOITE C/12 COMP - (068619)",
-            "dsc": "BENEGRIP MULTI NOITE C/12 COMP - (068619)",
+            "name": "BENEGRIP MULTI NOITE C/12 COMP",
+            "dsc": "(068619) BENEGRIP MULTI NOITE C/12 COMP",
             "price": 25.98
         },
         {
             "id": "tonys-custom-pizza-3-pack",
             "img": "./img/cardapio/pizzas/VapoRub.jpg",
-            "name": "VICK VAPORUB 12G - (001541)",
-            "dsc": "VICK VAPORUB 12G - (001541)",
+            "name": "VICK VAPORUB 12G",
+            "dsc": "(001541) VICK VAPORUB 12G",
             "price": 16.50
         },
         {
             "id": "plain-thin-crust-pizza-4-pack",
             "img": "./img/cardapio/pizzas/CORISTINA-D.jpg",
-            "name": "CORISTINA D PRO C/16 COMP - (018423)",
-            "dsc": "CORISTINA D PRO C/16 COMP - (018423)",
+            "name": "CORISTINA D PRO C/16 COMP",
+            "dsc": "(018423) CORISTINA D PRO C/16 COMP",
             "price": 33.82
         }
     ],
@@ -434,84 +434,84 @@ var MENU = {
             "id": "california-reserve-filet-mignon-steaks-gift-box",
             "img": "./img/cardapio/steaks/whey-morango.jpg",
             "name": "NUTRI WHEY PROTEIN MORANGO 907G ",
-            "dsc": "NUTRI WHEY PROTEIN MORANGO 907G - (044857)",
+            "dsc": "(044857) NUTRI WHEY PROTEIN MORANGO 907G",
             "price": 89.90
         },
         {
             "id": "steaks-and-cakes-date-night-dinner-for-2",
             "img": "./img/cardapio/steaks/bcaa_7896311763269.jpg",
             "name": "BCC 2400MG C/90 CAPS",
-            "dsc": "BCC 2400MG C/90 CAPS - (056174)",
+            "dsc": "(056174) BCC 2400MG C/90 CAPS",
             "price": 62.90
         },
         {
             "id": "Prime-holiday-steak-sampler-for-10-12",
             "img": "./img/cardapio/steaks/creatina-300g-integralmedica.jpg",
             "name": "CREATINA 300G",
-            "dsc": "CREATINA 300G - (044764)",
+            "dsc": "(044764) CREATINA 300G",
             "price": 187.50
         },
         {
             "id": "bone-in-rib-steak",
             "img": "./img/cardapio/steaks/sinister-mass.jpg",
             "name": "SINISTER MASS MORANGO 3KG",
-            "dsc": "SINISTER MASS MORANGO 3KG - (041455)",
+            "dsc": "(041455) SINISTER MASS MORANGO 3KG",
             "price": 124
         },
         {
             "id": "american-wagyu-gold-grade-top-sirloins",
             "img": "./img/cardapio/steaks/whey-baunilha.jpg",
             "name": "WHEY 100% BAUNILHA 900G",
-            "dsc": "WHEY 100% BAUNILHA 900G - (053383)",
+            "dsc": "(053383) WHEY 100% BAUNILHA 900G",
             "price": 162
         },
         {
             "id": "2-peter-luger-steak-pack-b",
             "img": "./img/cardapio/steaks/WHEYREFIL-BAUNILHA.jpg",
             "name": "WHEY REFIL 100% BAUNILHA 900G",
-            "dsc": "WHEY REFIL 100% BAUNILHA 900G - (063071) ",
+            "dsc": "(063071) WHEY REFIL 100% BAUNILHA 900G",
             "price": 149.90
         },
         {
             "id": "ribeye-prime-steak-gift-box",
             "img": "./img/cardapio/steaks/Whey_Max_Titanium-Sabor_Chocolate.jpg",
             "name": "SUPER WHEY CHOCOLATE 900G",
-            "dsc": "SUPER WHEY CHOCOLATE 900G - (051822)",
+            "dsc": "(051822) SUPER WHEY CHOCOLATE 900G",
             "price": 89.90
         },
         {
             "id": "dry-aged-usda-prime-black-angus-porterhouse-steak-2-pack",
             "img": "./img/cardapio/steaks/mass-titanium-17500.jpg",
             "name": "MASS TITANIUM 17500 BAUNILHA 3KG",
-            "dsc": "MASS TITANIUM 17500 BAUNILHA 3KG - (044781)",
+            "dsc": "(044781) MASS TITANIUM 17500 BAUNILHA 3KG",
             "price": 127.50
         },
         {
             "id": "california-reserve-ribeye-steak",
             "img": "./img/cardapio/steaks/bcaa-atlhetica.jpg",
             "name": "BCAA 100 % 2:1:1 LIMÃO 210G",
-            "dsc": "BCAA LIMÃO 210G - (063069)",
+            "dsc": "(063069) BCAA LIMÃO 210G",
             "price": 49.90
         },
         {
             "id": "dry-aged-boneless-ribeye-steak-dinner-kit-for-4",
             "img": "./img/cardapio/steaks/cratina-wvegan.jpg",
             "name": "CREATINA 210G",
-            "dsc": "CREATINA 210G - (069592)",
+            "dsc": "(069592) CREATINA 210G",
             "price": 69.90
         },
         {
             "id": "california-reserve-filet-mignon-steak",
             "img": "./img/cardapio/steaks/protein-crisp.jpg",
             "name": "PROTEIN CRISP BAR PEANUT BUTTER 45G",
-            "dsc": "PROTEIN CRISP BAR PEANUT BUTTER 45G - (057281)",
+            "dsc": "(057281) PROTEIN CRISP BAR PEANUT BUTTER 45G",
             "price": 8.75
         },
         {
             "id": "mesquite-smoked-peppered-beef-tenderloin",
             "img": "./img/cardapio/steaks/BARRA-PROTEICA-DARK.jpg",
             "name": "DARK BAR CHOC/COOKIS",
-            "dsc": "DARK BAR CHOC/COOKIS - (061411)",
+            "dsc": "(061411) DARK BAR CHOC/COOKIS",
             "price": 15.99
         }
     ]
