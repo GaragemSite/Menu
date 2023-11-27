@@ -291,14 +291,14 @@ var MENU = {
             "img": "./img/cardapio/bebidas/eno-tradicional.jpeg",
             "name": "SAL DE FRUTA ENO TRADICIONAL C/2",
             "dsc": "(002272) SAL DE FRUTA ENO TRADICIONAL C/2",
-            "price": 3.90
+            "price": 4.38
         },
         {
             "id": "woodford-reserve-mint-julep-syrup-2-pack",
             "img": "./img/cardapio/bebidas/eno-laranja.jpeg",
             "name": "SAL DE FRUTA ENO C/2 LARANJA",
             "dsc": "(001825) SAL DE FRUTA ENO C/2 LARANJA",
-            "price": 3.90
+            "price": 4.38
         },
         {
             "id": "unicorn-parade-milkshake-kit-for-8",
@@ -312,7 +312,7 @@ var MENU = {
             "img": "./img/cardapio/bebidas/eno-limao.png",
             "name": "SAL DE FRUTA ENO C/2 LIMAO",
             "dsc": "(000395) SAL DE FRUTA ENO C/2 LIMAO",
-            "price": 3.90
+            "price": 4.38
         },
         {
             "id": "15194-old-honey-barn-mint-julep-mixer-200ml",
